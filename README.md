@@ -1,10 +1,11 @@
-# Hi there 👋 I'm Ullas
+## Hi there 👋 I'm Ullas
 
 I am a **Master's in Computer Science** student at **George Washington University** with a background in designing scalable microservices and a passion for full-stack development.
 
+- 🎓 **Education:** Master of Science in Computer Science @ GWU
+- 📄 **Resume:** [View My Resume](./ULLAS_BASAVAPATNA_CHANDRASHEKAR.pdf) 
 - 🚀 **Currently Building:** [Driftline](https://github.com/ullasbc) - A drift detection application.
 - 🔨 **Past Experience:** Designed and deployed scalable Java-based microservices for **Liberty Global**.
-- 🎓 **Education:** Master of Science in Computer Science @ GWU.
 
 ---
 
@@ -23,8 +24,8 @@ I am a **Master's in Computer Science** student at **George Washington Universit
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/ullasbc](https://www.linkedin.com/in/ullasbc/)
+- **LeetCode:** [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ullasbc/)
 - **Email:** [ullas@gwu.edu](mailto:ullasbc02@gmail.com)
-- **Resume:** Resume(./ULLAS_BASAVAPATNA_CHANDRASHEKAR.pdf)
 
 ---
 
