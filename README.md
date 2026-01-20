@@ -23,7 +23,8 @@ I am a **Master's in Computer Science** student at **George Washington Universit
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/ullasbc](https://www.linkedin.com/in/ullasbc/)
-- **Email:** [ullas@gwu.edu](mailto:ullas@gwu.edu)
+- **Email:** [ullas@gwu.edu](mailto:ullasbc02@gmail.com)
+- **Resume:** Resume(./ULLAS_BASAVAPATNA_CHANDRASHEKAR.pdf)
 
 ---
 
