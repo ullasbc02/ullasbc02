@@ -25,7 +25,7 @@ I am a **Master's in Computer Science** student at **George Washington Universit
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/ullasbc](https://www.linkedin.com/in/ullasbc/)
 - **LeetCode:** [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/ullasbc/)
-- **Email:** [ullas@gwu.edu](mailto:ullasbc02@gmail.com)
+- **Email:** [ullasbc02@gmail.com](mailto:ullasbc02@gmail.com)
 
 ---
 
