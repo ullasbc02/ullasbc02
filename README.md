@@ -1,19 +1,15 @@
 ## Hi there 👋 I'm Ullas
-
-### 🚀 About Me
-I'm a passionate developer with a strong foundation in software engineering and a keen interest in building innovative solutions. I enjoy tackling complex problems and continuously expanding my technical skills.
+### 🚀 Full Stack Engineer | Code Enthusiast | Currently Building Driftline
+### 🔨 Designed and deployed scalable Java-based microservices for Liberty Global
+### 🎓 Master's Degree in Computer Science at George Washington University
 
 ### 💻 Skills
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
+- **Programming Languages:** Java, Python, JavaScript, C++, Ruby
+- **Web Development:** HTML, CSS, React, Node.js, NextJS
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies:** Git, Docker, Linux, AWS
-- **Software Development:** Agile methodologies, CI/CD, Testing
+- **Tools & Technologies:** Git, Docker, Linux, AWS, SpringBoot, Rails, Firebase
+- **Software Development:** Agile methodologies, CI/CD, Functional and Performance Testing
 
-### 🎓 Education
-- **Bachelor's Degree in Computer Science**
-  - Focus on software engineering, algorithms, and data structures
-  - Completed coursework in web development, databases, and system design
 
 ### 📫 Let's Connect
-Feel free to reach out for collaborations or just a friendly chat about technology!
+LinkedIn https://www.linkedin.com/in/ullasbc/
