@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Ullas
 
-<!--
-**ullasbc02/ullasbc02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm a passionate developer with a strong foundation in software engineering and a keen interest in building innovative solutions. I enjoy tackling complex problems and continuously expanding my technical skills.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **Programming Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools & Technologies:** Git, Docker, Linux, AWS
+- **Software Development:** Agile methodologies, CI/CD, Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- **Bachelor's Degree in Computer Science**
+  - Focus on software engineering, algorithms, and data structures
+  - Completed coursework in web development, databases, and system design
+
+### 📫 Let's Connect
+Feel free to reach out for collaborations or just a friendly chat about technology!
