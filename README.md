@@ -21,11 +21,6 @@ I am a **Master's in Computer Science** student at **George Washington Universit
 
 ---
 
-### 📊 GitHub Stats
-![Ullas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullasbc&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/ullasbc](https://www.linkedin.com/in/ullasbc/)
 - **Email:** [ullas@gwu.edu](mailto:ullas@gwu.edu)
