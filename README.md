@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ullas
-### 🚀 Full Stack Engineer | Code Enthusiast | Currently Building Driftline
-### 🔨 Designed and deployed scalable Java-based microservices for Liberty Global
-### 🎓 Master's Degree in Computer Science at George Washington University
+## 🚀 Full Stack Engineer | Code Enthusiast | Currently Building Driftline
+## 🔨 Designed and deployed scalable Java-based microservices for Liberty Global
+## 🎓 Master's Degree in Computer Science at George Washington University
 
 ### 💻 Skills
 - **Programming Languages:** Java, Python, JavaScript, C++, Ruby
