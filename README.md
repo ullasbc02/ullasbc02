@@ -4,7 +4,7 @@ I am a **Master's in Computer Science** student at **George Washington Universit
 
 - 🎓 **Education:** Master of Science in Computer Science @ GWU
 - 📄 **Resume:** [View My Resume](./ULLAS_BASAVAPATNA_CHANDRASHEKAR.pdf) 
-- 🚀 **Currently Building:** [Driftline](https://github.com/ullasbc) - A drift detection application.
+- 🚀 **Currently Building:** [Driftline]- A behavioral drift detection platform over distributed traces.
 - 🔨 **Past Experience:** Designed and deployed scalable Java-based microservices for **Liberty Global**.
 
 ---
