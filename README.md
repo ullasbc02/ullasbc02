@@ -3,7 +3,7 @@
 I am a **Master's in Computer Science** student at **George Washington University** with a background in designing scalable microservices and a passion for full-stack development.
 
 - 🎓 **Education:** Master of Science in Computer Science @ GWU  
-- 📄 **Resume:** [View My Resume](./ULLAS_BASAVAPATNA_CHANDRASHEKAR.pdf)  
+- 📄 **Resume:** [View My Resume](./ULLAS_BASAVAPATNA_CHANDRASHEKAR_Resume.docx.pdf)  
 - 🚀 **Currently Building:** **Driftline** – A behavioral drift detection platform over distributed traces  
 - 🔨 **Past Experience:** Designed and deployed scalable Java-based microservices for **Liberty Global**
 
