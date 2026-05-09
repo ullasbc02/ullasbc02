@@ -9,7 +9,7 @@ I am a **Master's in Computer Science** student at **George Washington Universit
 
 ### 💻 Skills
 
-- **Languages & Core Technologies:** Java, Python, JavaScript, C++, Ruby  
+- **Languages & Core Technologies:** Java, Python, JavaScript, C++, Rust  
 - **Web & Backend Frameworks:** Next.js, React, Node.js, Spring Boot, Ruby on Rails  
 - **Cloud & Databases:** AWS, PostgreSQL, MongoDB, Docker  
 
