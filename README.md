@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ullas
 
-I am a **Master's in Computer Science** student at **George Washington University** with a background in designing scalable microservices and a passion for full-stack development.
+I have a background in designing scalable microservices and a passion for full-stack development.
 
 - 🎓 **Education:** Master of Science in Computer Science @ GWU  
 - 📄 **Resume:** [View My Resume](./ULLAS_BASAVAPATNA_CHANDRASHEKAR_Resume.pdf)  
@@ -9,7 +9,7 @@ I am a **Master's in Computer Science** student at **George Washington Universit
 ### 💻 Skills
 
 - **Languages & Core Technologies:** Java, Python, JavaScript, C++, Rust  
-- **Web & Backend Frameworks:** Next.js, React, Node.js, Spring Boot, Ruby on Rails  
+- **Web & Backend Frameworks:** Next.js, React, Node.js, Spring Boot  
 - **Cloud & Databases:** AWS, PostgreSQL, MongoDB, Docker  
 
 ### 📫 Let's Connect
