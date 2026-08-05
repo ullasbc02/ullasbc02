@@ -9,7 +9,7 @@ I have a background in designing scalable microservices and a passion for Distri
 ### 💻 Skills
 
 - **Languages & Core Technologies:** Java, Python, JavaScript, C++, Rust  
-- **Web & Backend Frameworks:** Next.js, React, Node.js, Spring Boot  
+- **Web & Backend Frameworks:** Next.js, Angular, React, Node.js, Spring Boot  
 - **Cloud & Databases:** AWS, PostgreSQL, MongoDB, Docker  
 
 ### 📫 Let's Connect
