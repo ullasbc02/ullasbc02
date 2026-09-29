@@ -3,7 +3,6 @@
 I have a background in designing scalable microservices and a passion for Distributed Systems.
 
 - 🎓 **Education:** Master of Science in Computer Science @ GWU  
-- 📄 **Resume:** [View My Resume](./ULLAS_BASAVAPATNA_CHANDRASHEKAR_Resume.pdf)  
 - 🔨 **Past Experience:** Designed and deployed scalable Java-based microservices for **Liberty Global**
 
 ### 💻 Skills
